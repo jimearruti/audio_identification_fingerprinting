@@ -7,7 +7,7 @@ specifically designed audio features called fingerprints.
 
 An audio identification algorithm was implemented
 based on the one described by Wang et al. in [1] from
-the company Shazam 1 , as well as the remarks made by
+the company [Shazam](https://www.shazam.com/), as well as the remarks made by
 Müller on [2], and adapted to return the best three matches
 from the relevant database.
 
